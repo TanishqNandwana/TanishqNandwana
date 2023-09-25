@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanishq Nandwana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🌱 I’m currently learning **C++**
+
 - 📫 How to reach me **tanishqnandwana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
